@@ -1,0 +1,10 @@
+vmax= either vw or vh which ever is max 
+
+FONTS KE LIYE
+em is used to provide size to kids with respect to parent div in font size 
+rem is uesd to provide size according to screen 
+
+use for specific size of screen
+ @medi (max-width:600px){
+    content
+}
